@@ -1,0 +1,581 @@
+1083621	1/20/2016	ETS	Chicago	IL		Ewing 	NJ	08618	53		$1,900.00	Xpedite	X														
+1084329	1/26/2015	Alphagraphics	Cary	NC	27518	Orlando	FL	32830	53		$1,250.00	Amerifreight	X														
+1076858	12/1/2015	PTC THERAPEUTICS	ROCKFORD	IL	61109	TAMPA	FL	33607	26 FT ST		$3,611.26	XPO	X														
+1081350	1/4/2016	ETS	Sterling 	PA	18463	Maquoketa	IA	18463	53		$1,150.00	USA Freight	X			NEW CARRIER											
+1080554	1/4/2016	Janssen	Charleston	SC	29410	Athens	GA	29410	53		$1,050.00	HALOG		X	Service												
+1081297	1/4/2016	ETS	Addison	TX	75001	Ewing	NJ	08618	53		$2,400.00	Globe Logistics	X			NEW CARRIER											
+1081501	1/4/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,300.00	Liberty Trans	X			NEW CARRIER											
+1081318	1/5/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1081506	1/5/2016	Palziv	Chatsworth	GA	30705	Louisburg	NC	27549	53		$800.00	LHT Logistics	X		***NEW BUSINESS***	NEW CARRIER											
+1081503	1/5/2016	ETS	Addison	TX	75001	Ewing	NJ	08618	53		$2,350.00	Cargo Solutions	X			NEW CARRIER											
+1081640	1/5/2016	Janssen	Greenville	SC	07065	Rahway	NJ	07065	53		$1,600.00	Free Style	X														
+1081547	1/5/2016	GPJ	Torrance	CA	90504	Chula Vista	CA	91910	53		$650.00	HALOG		X	Service												
+1081681	1/6/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	O&M Truck	X			NEW CARRIER											
+1081812	1/6/2016	ETS	Chicago	IL	60651	Trenton	NJ	08638	53		$1,900.00	Vlad & Brother	X			NEW CARRIER											
+1081759	1/6/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$850.00	Ward Trucking	X			NEW CARRIER											
+1081802	1/6/2016	Janssen	Hatfield 	PA	19440	Wilmington	OH	45177	53		$875.00	Nolan		X	Lead Time												
+1081798	1/7/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X														
+1081847	1/7/2016	EMD Millipore	Kankakee	IL	60901	Malvern	PA	19355	53		$2,890.00	HALOG		X	Capacity												
+1081900	1/7/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1081887	1/7/2016	ETS	Rockland	MA	02370	Swedesboro	NJ	08085	53		$550.00	West Motor	X														
+1081978	1/8/2016	Janssen	Burlington	NC	27215	Rockford	IL	61109	53		$1,300.00	S&T Trans	X														
+1081812	1/8/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X			NEW CARRIER											
+1081998	1/8/2016	WL Gore	Brighton	MI	48116	Landenberg	PA	19350	53		$815.00	Nolan		X	Rate												
+1082142	1/11/2016	Shionogi	Alpharetta	GA	30005	LaVergne	TN	37086	53		$825.00	Carnes	X														
+1082305	1/11/2016	Janssen	Mebane	NC	27302	Rockford	IL	61109	53		$1,200.00	West Motor	X														
+1082336	1/11/2016	GPJ	Torrance	CA	90504	Mountain View	CA	94043	53		$650.00	HALOG		X													
+1082298	1/11/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$850.00	Ward Trucking	X														
+1082316	1/12/2016	ETS	Maquoketa	IA	52060	Swedesboro	NJ	08085	53		$2,000.00	Xpedite	X														
+1082341	1/12/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,100.00	Airflight	X														
+1082118	1/12/2016	GPJ	SanDiego	CA	92108	Torrance	CA	90504	53		$795.00	HALOG		X	Service												
+1082608	1/13/2016	ETS	Rockland	MA	02370	Swedseboro	NJ	08085	53		$550.00	West Motor	X														
+1082614	1/13/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1082661	1/13/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1082603	1/13/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,000.00	Xpedite	X														
+1082449	1/13/2016	CI-Group	Minneapolis	MN	55442	Whitehouse	NJ	08888	53		$2,600.00	HALOG		X	Service												
+1082760	1/14/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1082896	1/14/2016	ETS	Claysburg	PA	16625	Philadelphia	PA	19134	53		$900.00	S&T Trans	X														
+1082897	1/14/2016	ETS	Claysburg	PA	16625	Ewing 	PA	19134	53 2-Stop		$950.00	S&T Trans	X														
+1082785	1/14/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,100.00	BIH Express	X														
+1082779	1/14/2016	Palziv	Louisburg	NC	27549	FT Worth	TX	76111	53		$1,800.00	ENG Trans	X			NEW CARRIER											
+1083021	1/15/2016	ETS	Maquoketa	IA	52060	Swedseboro	NJ	08085	53		$2,200.00	Liberty Trans	X														
+1083205	1/18/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,200.00	Liberty Trans	X														
+1083429	1/18/2016	ETS	Swedesboro	NJ	08085	Ewing 	NJ	08638	53		$375.00	West Motor	X														
+1083044	1/18/2016	Janssen	Montgomeryville	PA	18936	Shepherdsville	KY	40165	53		$850.00	Carnes	X														
+1083379	1/19/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1083425	1/19/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1083410	1/19/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,075.00	Hatch	X														
+1083436	1/19/2016	Arbor	Rockford	IL	61109	Memphis	TN	38141	53	X	$2,550.00	XPO	X														
+1083389	1/19/2016	PTC	Rockford	IL	61109	Phoenixville	PA	19460	53		$1,912.68	XPO	X														
+1083621	1/20/2016	ETS	Chicago	IL		Ewing 	NJ	08618	53		$1,900.00	Xpedite	X														
+1083642	1/20/2016	ETS	Chicago	IL		Trenton	NJ		53		$1,900.00	Sargent	X														
+1083573	1/20/2016	ETS	Claysburg	PA	16625	Trenton	NJ		53		$800.00	NEON	X														
+1083580	1/20/2016	Janssen	Clifton	NJ		New Castle	DE		53		$495.00	West Motor	X														
+1083804	1/21/2016	Janssen	Manchester	CT	06045	New Castle	DE	19720	53		$600.00	LHT Logistics	X														
+1083785	1/21/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1083910	1/21/2016	ETS	Rockland	MA	02370	Trenton	NJ	08638	53		$850.00	RoadRunner		X	Capacity												
+1083756	1/21/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$850.00	Ward	X														
+1083902	1/22/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,075.00	Hatch	X			Partner Carier											
+1083760	1/22/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$850.00	Ward	X														
+1084014	1/22/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,600.00	BlueStar	X														
+1083947	1/22/2016	Penn Color	Hatfield	PA	19440	Delaware	OH	43015	53		$795.00	HALOG		X													
+1083761	1/25/2016	RP Logistics	Horsham	PA	19044	Los Angeres	CA	90039	53		$3,700.00	Carana	X														
+1083761	1/25/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$850.00	Ward	X														
+1084353	1/26/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$950.00	HALOG		X	Capactiy												
+1084239	1/26/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,700.00	BBK	X														
+1084237	1/26/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,775.00	O&M	X														
+1084260	1/26/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	Quality	X														
+1084573	1/26/2016	ETS	Swedesboro	NJ	08085	Austin	TX	78744	53		$2,500.00	ENG Trans	X														
+1084541	1/27/2016	FCS	Holliston	MA	01746	Breinigsville	PA	18031	53		$850.00	RoadRunner		X	Capactiy												
+1084545	1/27/2016	FCS	Holliston	MA	01746	Breinigsville	PA	18031	53		$850.00	RoadRunner		X	Capactiy												
+1084523	1/27/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,250.00	JV Group	X														
+1084374	1/27/2016	Janssen	Philadelphia	PA	19154	Hartford	WI	53027	53 2-Stop		$1,400.00	Sarge	X														
+1084373	1/27/2016	Janssen	York	PA	17402	Rockford	IL	61109	53		$1,000.00	S&T	X														
+1084526	1/27/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$900.00	NLZ Trans	X														
+1084529	1/27/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,400.00	Associated	X														
+1084727	1/28/2016	ETS	Manchester	CT	06045	Somerset	NJ	08873	53		$550.00	West Motor	X														
+1084207	1/28/2016	Ballys	Morehead City	NC	28557	Charleston	SC	29406	53		$600.00	Hatch	X														
+1084564	1/28/2016	Palziv	Louisburg	NC	27549	Hampshire	IL	60140	53		$1,200.00	Amerifreight	X														
+1084695	1/29/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,250.00	JV Group	X														
+1085020	1/29/2016	NPC Inc	Reading	PA	19605	Claysburg	PA	16625	53		$550.00	FreeStyle	X														
+1084530	1/29/2016	Janssen	Montgomeryville	PA	18936	Shepherdsville	KY	40165	53		$1,150.00	Mercer	X														
+1084695	1/29/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,500.00	Associated	X														
+1076858	12/1/2015	PTC THERAPEUTICS	ROCKFORD	IL	61109	TAMPA	FL	33607	26 FT ST		$3,611.26	XPO	X														
+1076853	12/1/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1076961	12/1/2015	ETS	Torrington	CT	06790	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1077024	12/2/2015	PTC THERAPEUTICS	Horsham	PA	19044	Rockford	IL	61109	53		$1,934.42	XPO	X														
+1077002	12/2/2015	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1076792	12/2/2015	Janssen	York	PA	17402	Rockford	IL	61109	53		$1,125.00	Hatch	X			PARTNER CARRIER											
+1077057	12/2/2015	Janssen	Moonachie	NJ	07074	Lebanon Junction	KY	40150	53		$900.00	Carnes	X														
+1077081	12/2/2015	Janssen	Tinton Falls	NJ	07724	Charlotte	NC	28273	53		$990.00	Hatch	X			PARTNER CARRIER											
+1077079	12/2/2015	Janssen	York	PA	17402	Rockford	IL	61109	53		$1,125.00	Hatch	X			PARTNER CARRIER											
+1076819	12/2/2015	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,375.00	Hatch	X			PARTNER CARRIER											
+1077208	12/3/2015	Fisher Clinical 	Allentown	PA	18106	Kansas City	MO	64137	53	X	$4,273.58	Panther	X			TEMP VALIADTED SERVICE											
+1077112	12/3/2015	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$650.00	Hatch	X			PARTNER CARRIER											
+1077114	12/4/2015	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,390.00	Hatch	X			PARTNER CARRIER											
+1077117	12/4/2015	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,390.00	Hatch	X			PARTNER CARRIER											
+1076996	12/4/2015	WL Gore	Elkton	MD	21921	Flagstaff	AZ	86005	53 - Reefer		$4,980.00	HALOG		X	Service												
+1077205	12/4/2015	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,375.00	Hatch	X			PARTNER CARRIER											
+1076542	12/4/2015	Bally	Morehead City	NC	28557	Bradenton	FL	34203	53		$1,700.00	Hatch	X			Own Truck											
+1077425	12/5/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$745.00	West Motor	X			$150 more for Weekend P/U											
+1077519	12/7/2015	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,690.00	Hatch	X			PARTNER CARRIER											
+1077522	12/7/2015	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,690.00	Hatch	X			PARTNER CARRIER											
+1077533	12/7/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1077248	12/7/2015	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,375.00	Hatch	X			PARTNER CARRIER											
+1078189	12/8/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1078196	12/8/2015	Janssen	Tinton Falls	NJ	07724	Morrisville	NC	27560	53		$925.00	Pinnacle	X														
+1077973	12/9/2015	CI - Group	Minneapolis	MN	55442	Branchburg	NJ	08876	53		$2,600.00	HALOG		X	Service												
+1078224	12/9/2015	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,215.00	Carnes	X														
+1078361	12/9/2015	ETS	Owensville	MO	65066	Trenton	NJ	08638	53		$2,390.00	HALOG		X	Service												
+1078269	12/9/2015	Janssen	Pennsauken	NJ	08110	New Castle 	DE	19720	53		$550.00	West Motor	X														
+1078191	12/9/2015	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1078382	12/9/2015	Plexis	Grand Prairie	TX	75051	Gila Bend	AZ	85337	53		$3,180.00	HALOG		X	Service												
+1078038	12/9/2015	GPJ	Torrance	CA	90504	San Diego	CA	92101	53		$795.00	HALOG		X	Service												
+1078408	12/10/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1078510	12/10/2015	ETS	Newburyport	MA	01950	Swedesboro	NJ	08085	53		$750.00	Hatch	X			PARTNER CARRIER											
+1078397	12/11/2015	ETS	Owensville	MO	65066	Trenton	NJ	08638	53		$2,390.00	HALOG		X	Service												
+1078399	12/11/2015	ETS	Owensville	MO	65066	Trenton	NJ	08638	53		$2,390.00	HALOG		X	Service												
+1078787	12/11/2015	Janssen	Little Falls	NJ	07424	Charlotte	NC	28273	53		$925.00	Nolan		X	Capacity												
+1078411	12/11/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08628	53		$950.00	Hatch	X			PARTNER CARRIER											
+1078870	12/14/2015	Arbor	LaVergne	TN	37086	Memphis	TN	38141	53	X	$1,500.00	XPO	X														
+1078851	12/14/2015	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,690.00	Hatch	X			PARTNER CARRIER											
+1078910	12/14/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08628	53		$950.00	Hatch	X			PARTNER CARRIER											
+1078420	12/14/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08628	53		$950.00	Hatch	X			PARTNER CARRIER											
+1078864	12/14/2015	ETS	Owensville	MO	65066	Ewing	NJ	08638	53		$2,390.00	HALOG		X	Capacity												
+1078866	12/14/2015	ETS	Owensville	MO	65066	Ewing	NJ	08638	53		$2,390.00	HALOG		X	Capacity												
+1078925	12/15/2015	PTC THERAPEUTICS	ROCKFORD	IL	61109	TAMPA	FL	33607	53		$3,581.55	XPO	X														
+1078947	12/15/2015	Arbor	Rockford	IL	61109	Memphis	TN	38141	53		$1,950.30	Landstar	X														
+1078921	12/15/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1079161	12/15/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1078999	12/15/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1079000	12/15/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1078905	12/15/2015	Lundbeck	Lakewood	NJ	08701	LaVergne	TN	37086	53		$1,959.90	Landstar	X														
+1079202	12/16/2015	ARBOR PHARM	LAVERGNE	TN	38076	MEMPHIS	TN	38141	53	X	$1,450.00	XPO	X														
+1079190	12/16/2015	CI - Group	Minneapolis	MN	55442	Branchburg	NJ	08876	53		$2,600.00	HALOG		X	CAPACITY												
+1079014	12/16/2015	Bally	Morehead City	NC	28557	Kingston	NH	03848	53 2-Stop		$2,235.00	Nolan		X	Rate												
+1079246	12/16/2015	Janssen	Manchester	CT	06045	Somerset	NJ	08873	53		$500.00	Hatch	X			PARTNER CARRIER											
+1079243	12/16/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1079201	12/16/2015	ETS	Owensville	PA	65066	Trenton	NJ	08638	53		$2,390.00	HALOG		X	Capacity												
+1079215	12/16/2015	GPJ	San Diego	CA	92101	Torrance	CA	90504	53		$795.00	HALOG		X	Service												
+1079637	12/17/2015	ETS	Rockland	MA	02370	Trenton	NJ	08638	53		$595.00	West Motor	X														
+1079659	12/17/2015	Arbor	Memphis	TN	38134	LaVergne	TN	37086	53	X	$1,250.00	XPO	X														
+1079674	12/17/2015	Janssen	Philadelphia	PA	19154	Richmond	VA	23228	53		$600.00	Olero	X			New Carrier											
+1079642	12/17/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1079564	12/18/2015	Janssen	Mansfield	MA	02048	Shepherdsville	KY	40165	53 3-Pickup		$1,650.00	Baylor	X			New Carrier											
+1079686	12/18/2015	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,690.00	Hatch	X			PARTNER CARRIER											
+1079650	12/18/2015	ETS	Claysburg	PA	16625	Lewisville	TX	75057	53		$2,150.00	Martyn	X			New Carrier											
+1079668	12/18/2015	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,000.00	Xpedite	X			New Carrier											
+1079698	12/18/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1079708	12/18/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1079941	12/18/2015	Janssen	Hatfield	PA	19440	Louisville	KY	19440	53		$750.00	BIH Express	X			New Carrier											
+1079685	12/18/2015	WL Gore	Roanoke	IN	46783	Las Vegas	NV	89118	53		$2,900.00	VMB Trans	X			New Carrier											
+1079882	12/18/2015	Janssen	Holliston	MA	01746	Mt Prospect	IL	60056	53		$1,000.00	Free Style	X			New Carrier											
+1080141	12/21/2015	Janssen	Holliston	MA	01746	Allentown	PA	18106	53		$550.00	West Motor	X														
+1080139	12/21/2015	Janssen	Holliston	MA	01746	Allentown	PA	18106	53		$550.00	West Motor	X														
+1079951	12/21/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$595.00	West Motor	X														
+1080158	12/21/2015	WL Gore	Worcester	MA	01606	Elkton	MD	21921	53		$500.00	Mariner	X			New Carrier											
+1080170	12/21/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$500.00	Silva Express	X			New Carrier											
+1080153	12/21/2015	ETS	Maquoketa	IA	52060	Ewing	NJ	08628	53		$2,450.00	Hatch	X			PARTNER CARRIER											
+1080155	12/21/2015	ETS	Maquoketa	IA	52060	Ewing	NJ	08628	53		$2,450.00	Hatch	X			PARTNER CARRIER											
+1079954	12/21/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08628	53		$950.00	Hatch	X			PARTNER CARRIER											
+1079953	12/21/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08628	53		$950.00	Hatch	X			PARTNER CARRIER											
+1080206	12/22/2015	Janssen	Conyers	GA	30012	Swedesboro	NJ	07072	53		$1,694.60	Overdrive	X														
+1080183	12/22/2015	Janssen	Montgomeryville	PA	18936	Shepherdsville	KY	40165	53		$1,050.00	Bluestar	X														
+1080220	12/22/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$1,150.00	HALOG		X	Capacity												
+1080184	12/22/2015	Janssen	Putnam	CT	06260	Somerset	NJ	08873	53		$800.00	Bluestar	X														
+1080317	12/22/2015	Janssen	Philadelphia	PA	19154	Lebanon Junction	KY	40150	53		$1,150.00	Olero	X														
+1080219	12/22/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$1,150.00	HALOG		X	Capacity												
+1080564	12/23/2015	Janssen	Philadelphia	PA	19154	Hartford	WI	53027	53		$1,250.00	S&T Trans	X			New Carrier											
+1080563	12/24/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$700.00	Olero	X														
+1080723	12/28/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1080788	12/28/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	Silva Express	X														
+1080762	12/28/2015	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1080796	12/29/2015	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1080791	12/29/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1080791	12/29/2015	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$1,150.00	Daybreak	X														
+1080824	12/29/2015	QVC	Florence	SC	29501	Secaucus	NJ	07094	53		$1,500.00	BBK	X			New Carrier											
+1080990	12/30/2015	Janssen	Conyers	GA	30012	Carlstadt	NJ	07072	53		$1,679.80	Overdrive		X													
+1080991	12/30/2015	CI - Group	Minneapolis	MN	55442	Whitehouse	NJ	08888	53		$2,600.00	HALOG		X	Service												
+1081197	12/31/2016	GPJ	Torrance	CA	90504	Santa Clara	CA	90504	53		$1,590.00	HALOG		X	Service												
+1084329	1/26/2015	Alphagraphics	Cary	NC	27518	Orlando	FL	32830	53		$1,250.00	Amerifreight	X														
+1076858	12/1/2015	PTC THERAPEUTICS	ROCKFORD	IL	61109	TAMPA	FL	33607	26 FT ST		$3,611.26	XPO	X														
+1081350	1/4/2016	ETS	Sterling 	PA	18463	Maquoketa	IA	18463	53		$1,150.00	USA Freight	X			NEW CARRIER											
+1080554	1/4/2016	Janssen	Charleston	SC	29410	Athens	GA	29410	53		$1,050.00	HALOG		X	Service												
+1081297	1/4/2016	ETS	Addison	TX	75001	Ewing	NJ	08618	53		$2,400.00	Globe Logistics	X			NEW CARRIER											
+1081501	1/4/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,300.00	Liberty Trans	X			NEW CARRIER											
+1081318	1/5/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1081506	1/5/2016	Palziv	Chatsworth	GA	30705	Louisburg	NC	27549	53		$800.00	LHT Logistics	X		***NEW BUSINESS***	NEW CARRIER											
+1081503	1/5/2016	ETS	Addison	TX	75001	Ewing	NJ	08618	53		$2,350.00	Cargo Solutions	X			NEW CARRIER											
+1081640	1/5/2016	Janssen	Greenville	SC	07065	Rahway	NJ	07065	53		$1,600.00	Free Style	X														
+1081547	1/5/2016	GPJ	Torrance	CA	90504	Chula Vista	CA	91910	53		$650.00	HALOG		X	Service												
+1081681	1/6/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	O&M Truck	X			NEW CARRIER											
+1081812	1/6/2016	ETS	Chicago	IL	60651	Trenton	NJ	08638	53		$1,900.00	Vlad & Brother	X			NEW CARRIER											
+1081759	1/6/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$850.00	Ward Trucking	X			NEW CARRIER											
+1081802	1/6/2016	Janssen	Hatfield 	PA	19440	Wilmington	OH	45177	53		$875.00	Nolan		X	Lead Time												
+1081798	1/7/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X														
+1081847	1/7/2016	EMD Millipore	Kankakee	IL	60901	Malvern	PA	19355	53		$2,890.00	HALOG		X	Capacity												
+1081900	1/7/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Hatch	X			PARTNER CARRIER											
+1081887	1/7/2016	ETS	Rockland	MA	02370	Swedesboro	NJ	08085	53		$550.00	West Motor	X														
+1081978	1/8/2016	Janssen	Burlington	NC	27215	Rockford	IL	61109	53		$1,300.00	S&T Trans	X														
+1081812	1/8/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X			NEW CARRIER											
+1081998	1/8/2016	WL Gore	Brighton	MI	48116	Landenberg	PA	19350	53		$815.00	Nolan		X	Rate												
+1082142	1/11/2016	Shionogi	Alpharetta	GA	30005	LaVergne	TN	37086	53		$825.00	Carnes	X														
+1082305	1/11/2016	Janssen	Mebane	NC	27302	Rockford	IL	61109	53		$1,200.00	West Motor	X														
+1082336	1/11/2016	GPJ	Torrance	CA	90504	Mountain View	CA	94043	53		$650.00	HALOG		X													
+1082298	1/11/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$850.00	Ward Trucking	X														
+1082316	1/12/2016	ETS	Maquoketa	IA	52060	Swedesboro	NJ	08085	53		$2,000.00	Xpedite	X														
+1082341	1/12/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,100.00	Airflight	X														
+1082118	1/12/2016	GPJ	SanDiego	CA	92108	Torrance	CA	90504	53		$795.00	HALOG		X	Service												
+1082608	1/13/2016	ETS	Rockland	MA	02370	Swedseboro	NJ	08085	53		$550.00	West Motor	X														
+1082614	1/13/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1082661	1/13/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1082603	1/13/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,000.00	Xpedite	X														
+1082449	1/13/2016	CI-Group	Minneapolis	MN	55442	Whitehouse	NJ	08888	53		$2,600.00	HALOG		X	Service												
+1082760	1/14/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1082896	1/14/2016	ETS	Claysburg	PA	16625	Philadelphia	PA	19134	53		$900.00	S&T Trans	X														
+1082897	1/14/2016	ETS	Claysburg	PA	16625	Ewing 	PA	19134	53 2-Stop		$950.00	S&T Trans	X														
+1082785	1/14/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,100.00	BIH Express	X														
+1082779	1/14/2016	Palziv	Louisburg	NC	27549	FT Worth	TX	76111	53		$1,800.00	ENG Trans	X			NEW CARRIER											
+1083021	1/15/2016	ETS	Maquoketa	IA	52060	Swedseboro	NJ	08085	53		$2,200.00	Liberty Trans	X														
+1083205	1/18/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,200.00	Liberty Trans	X														
+1083429	1/18/2016	ETS	Swedesboro	NJ	08085	Ewing 	NJ	08638	53		$375.00	West Motor	X														
+1083044	1/18/2016	Janssen	Montgomeryville	PA	18936	Shepherdsville	KY	40165	53		$850.00	Carnes	X														
+1083379	1/19/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1083425	1/19/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1083410	1/19/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,075.00	Hatch	X														
+1083436	1/19/2016	Arbor	Rockford	IL	61109	Memphis	TN	38141	53	X	$2,550.00	XPO	X														
+1083389	1/19/2016	PTC	Rockford	IL	61109	Phoenixville	PA	19460	53		$1,912.68	XPO	X														
+1083621	1/20/2016	ETS	Chicago	IL		Ewing 	NJ	08618	53		$1,900.00	Xpedite	X														
+1083642	1/20/2016	ETS	Chicago	IL		Trenton	NJ		53		$1,900.00	Sargent	X														
+1083573	1/20/2016	ETS	Claysburg	PA	16625	Trenton	NJ		53		$800.00	NEON	X														
+1083580	1/20/2016	Janssen	Clifton	NJ		New Castle	DE		53		$495.00	West Motor	X														
+1083804	1/21/2016	Janssen	Manchester	CT	06045	New Castle	DE	19720	53		$600.00	LHT Logistics	X														
+1083785	1/21/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$550.00	West Motor	X														
+1083910	1/21/2016	ETS	Rockland	MA	02370	Trenton	NJ	08638	53		$850.00	RoadRunner		X	Capacity												
+1083756	1/21/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$850.00	Ward	X														
+1083902	1/22/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,075.00	Hatch	X			Partner Carier											
+1083760	1/22/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$850.00	Ward	X														
+1084014	1/22/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,600.00	BlueStar	X														
+1083947	1/22/2016	Penn Color	Hatfield	PA	19440	Delaware	OH	43015	53		$795.00	HALOG		X													
+1083761	1/25/2016	RP Logistics	Horsham	PA	19044	Los Angeres	CA	90039	53		$3,700.00	Carana	X														
+1083761	1/25/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$850.00	Ward	X														
+1084353	1/26/2016	ETS	Rockland	MA	02370	Ewing 	NJ	08618	53		$950.00	HALOG		X	Capactiy												
+1084239	1/26/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,700.00	BBK	X														
+1084237	1/26/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,775.00	O&M	X														
+1084260	1/26/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	Quality	X														
+1084573	1/26/2016	ETS	Swedesboro	NJ	08085	Austin	TX	78744	53		$2,500.00	ENG Trans	X														
+1084541	1/27/2016	FCS	Holliston	MA	01746	Breinigsville	PA	18031	53		$850.00	RoadRunner		X	Capactiy												
+1084545	1/27/2016	FCS	Holliston	MA	01746	Breinigsville	PA	18031	53		$850.00	RoadRunner		X	Capactiy												
+1084523	1/27/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,250.00	JV Group	X														
+1084374	1/27/2016	Janssen	Philadelphia	PA	19154	Hartford	WI	53027	53 2-Stop		$1,400.00	Sarge	X														
+1084373	1/27/2016	Janssen	York	PA	17402	Rockford	IL	61109	53		$1,000.00	S&T	X														
+1084526	1/27/2016	ETS	Claysburg	PA	16625	Ewing 	NJ	08618	53		$900.00	NLZ Trans	X														
+1084529	1/27/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,400.00	Associated	X														
+1084727	1/28/2016	ETS	Manchester	CT	06045	Somerset	NJ	08873	53		$550.00	West Motor	X														
+1084207	1/28/2016	Ballys	Morehead City	NC	28557	Charleston	SC	29406	53		$600.00	Hatch	X														
+1084564	1/28/2016	Palziv	Louisburg	NC	27549	Hampshire	IL	60140	53		$1,200.00	Amerifreight	X														
+1084695	1/29/2016	ETS	Maquoketa	IA	52060	Ewing 	NJ	08618	53		$2,250.00	JV Group	X														
+1085020	1/29/2016	NPC Inc	Reading	PA	19605	Claysburg	PA	16625	53		$550.00	FreeStyle	X														
+1084530	1/29/2016	Janssen	Montgomeryville	PA	18936	Shepherdsville	KY	40165	53		$1,150.00	Mercer	X														
+1084695	1/29/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,500.00	Associated	X														
+1084515	2/1/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,800.00	ENG Trans	X														
+1085218	2/1/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,250.00	JV Group	X														
+1085312	2/1/2016	RP Logistics	Los Angeles	CA	90039	Horsham	PA	19044	53		$4,980.00	HALOG		X	Service												
+1085044	2/1/2016	ETS	Doylestown	PA	18902	Ewing	NJ	08618	53		$375.00	West Motor	X														
+1084882	2/1/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$500.00	Fore Trans	X														
+1085351	2/2/2016	WL Gore	Flagstaff	AZ	86004	Elkton	MD	21921	53 2-Stop		$3,790.00	HALOG		X													
+1085519	2/2/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$1,850.00	CDM Express	X														
+1085545	2/2/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1085370	2/2/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$774.58	Fore Trans	X														
+1085516	2/2/2016	Janssen	Manchester	CT	06045	Shepherdsville	KY	40165	53		$1,100.00	Sarge	X														
+1085756	2/3/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$3,100.00	Bluestar	X														
+1085533	2/3/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,650.00	O&M	X														
+1085892	2/4/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,675.00	Quality	X														
+1085792	2/4/2016	GPJ	San Jose	CA	95122	Torrance	CA	90504	53		$615.00	Nolan		X	Service												
+1085932	2/4/2016	USCG	Baltimore	MD	21226	Appleton	WI	54915	53		$1,556.00	HALOG		X	Service												
+1085885	2/5/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,500.00	D&D Trans	X														
+1085918	2/5/2016	ETS	Rockland	MA	08618	Ewing	NJ	08618	53		$550.00	Amerifreight	X														
+1086075	2/8/2016	ETS	Rockland	MA	02370	Swedesboro	NJ	08085	53		$900.00	Olero	X														
+1086204	2/8/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$650.00	BBK	X														
+1085948	2/8/2016	PTC	Rockford	IL	61109	Tampa	FL	33607	53		$3,400.00	XPO	X														
+1086226	2/8/2016	Janssen	York	PA	17402	Rockford	IL	61109	53		$900.00	Bluesky	X														
+1086076	2/8/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1086151	2/8/2016	Janssen	Putnam	CT	06260	Somerset	NJ	08873	53		$550.00	West Motor	X														
+1086210	2/9/2016	NPC	Bellmawr	NJ	08031	Austin	TX	78728	53		$2,700.00	ENG Trans	X														
+1086241	2/9/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,280.00	HALOG		X	Capacity												
+1086269	2/9/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,100.00	Pronto	X														
+1086450	2/10/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1086526	2/10/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$700.00	FreeStyle	X														
+1086469	2/10/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,200.00	RR Trans	X														
+1086678	2/10/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	O&M	X														
+1086676	2/10/2016	EMD	Kankakee	IL	60901	Malvern	PA	19355	53	X	$1,800.00	Daybreak	X														
+1086506	2/10/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,200.00	1st Class	X														
+1086510	2/10/2016	Janssen	Manchester	CT	06045	Carlstadt	NJ	07072	53		$550.00	Amerifreight	X														
+1086934	2/11/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,500.00	West Motor	X														
+1086736	2/11/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$600.00	Pinnacle	X														
+1086766	2/11/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$600.00	Baylor	X														
+1086957	2/11/2016	Janssen	Pennsauken	NJ	08109	Gurnee	IL	60031	53		$1,050.00	Orozco	X														
+1087146	2/12/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,200.00	C Trucking	X														
+1086971	2/12/2016	Janssen	Burlington	NC	27217	Rockford	IL	61109	53		$1,050.00	Supierior	X														
+1087196	2/12/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53		$2,300.00	Allstate	X														
+1086973	2/12/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,100.00	Four H	X														
+1087118	2/12/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,200.00	Windstar	X														
+1087149	2/12/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,000.00	Bayarde	X														
+1086918	2/12/2016	ETS	Claysburg	PA	16625	Swedesboro	NJ	08085	53		$850.00	Ward	X														
+1087402	2/15/2016	Penn Color	Hatfield	PA	19440	Chargrin Falls	NJ	44023	53		$750.00	Sargent	X														
+1087415	2/15/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,300.00	ABJ Express	X														
+1087204	2/15/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,200.00	C Trucking	X														
+1087424	2/15/2016	Janssen	Mebane	NC	27302	Rockford	IL	61109	53		$1,250.00	MB Global	X														
+1087154	2/15/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X														
+1087431	2/15/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1087143	2/15/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,100.00	CDM Express	X														
+1087194	2/15/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,150.00	Right Time	X														
+1087222	2/15/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,000.00	Flying Eagle	X														
+1087411	2/16/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$1,900.00	RR Trans	X														
+1087452	2/16/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,550.00	Caravan	X														
+1087215	2/16/2016	EMD	Kankakee	IL	60901	Malvern	PA	19355	53	X	$2,455.32	Panther	X														
+1086675	2/16/2016	CDC	Atlanta	GA	30341	Richmond	CA	94804	53		$3,757.44	BWI	X														
+1087623	2/17/2016	Janssen	Mebane	NC	27302	Rockford	IL	61109	53		$1,200.00	KWA	X														
+1087623	2/17/2016	EMD	Kankakee	IL	60901	Malvern	PA	19355	53	X	$2,455.32	Panther	X														
+1087879	2/17/2016	PTC	Horsham	PA	19044	Rockford	IL	61109	53		$1,631.55	Panther	X														
+1087923	2/17/2016	ETS	Owensville	MO	65066	Austin	TX	78744	53		$1,200.00	Associated	X														
+1088077	2/18/2016	FCS	Holliston	MA	01746	Swedesboro	NJ	08085	53 2-Stop PU		$700.00	Pinnacle	X														
+1087890	2/18/2016	Janssen	Rockford	IL	61109	Horsham	PA	19044	53		$1,631.55	Panther	X														
+1088091	2/19/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,400.00	C Trucking	X														
+1088089	2/19/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,000.00	RR Trans	X														
+1088149	2/19/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1088118	2/19/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53		$2,300.00	Reliable	X														
+1088344	2/19/2016	ETS	Columbia	PA	17512	Austin	TX	78744	53		$2,100.00	ENG Trans	X														
+1088155	2/19/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1088152	2/19/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X														
+1088479	2/22/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,550.00	ABJ Express	X														
+1088331	2/22/2016	Janssen	Mansfield	MA	02048	Shepherdsville	KY	40165	53		$1,100.00	Right Time	X														
+1088501	2/22/2016	ETS	Addison	TX	75001	Austin	TX	78744	53		$500.00	Euro Express	X														
+1088332	2/22/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,500.00	BSG Resource	X														
+1088477	2/22/2016	ETS	Columbia	PA	17512	Austin	TX	78744	53 2-Stop PU		$2,500.00	Allstate	X														
+1088461	2/22/2016	Thermo Fisher	Mountain Lakes	NJ	07046	Portage	MI	49002	53	X	$2,167.22	XPO	X														
+1088268	2/22/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1088564	2/23/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,500.00	D&D Trans	X														
+1088477	2/23/2016	ETS	Columbia	PA	17512	Austin	TX	78744	53 2-Stop PU		$2,500.00	Allstate	X														
+1088144	2/23/2016	Actavis	Salt Lake City	UT	84108	Ft Lauderdale	FL	33325	53	X	$5,700.00	BWI	X														
+1088720	2/23/2016	Janssen	Greensboro	NC	27409	Rockford	IL	61109	53		$1,250.00	Olero	X														
+1088800	2/23/2016	ETS	Ewing	NJ	08618	Austin	TX	78744	24	X	$2,150.00	Delta Express	X														
+1089029	2/24/2016	Fisher Diagnostics	Middletown	VA	22645	Charlotte	NC	27273	53 2-Stop		$1,000.00	Summit	X														
+1088782	2/24/2016	Fisher Diagnostics	Middletown	VA	22645	Overloand Park	KS	66211	53		$1,375.00	NKC Trans	X														
+1088873	2/24/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,100.00	JV Group	X														
+1088729	2/24/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	53		$1,900.00	Sarge	X														
+1088865	2/24/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$900.00	FreeStyle	X														
+1088781	2/24/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,150.00	RR Trans	X														
+1088784	2/24/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,200.00	ERM Lines	X														
+1089050	2/25/2016	Fisher Diagnostics	Middletown	VA	22645	Salt Lake City	UT	84119	53 2-Stop		$3,500.00	Load 2 Ride	X														
+1089142	2/25/2016	ETS	Lancaster	PA	17601	Addison	TX	75001	53		$2,300.00	All States	X														
+1089151	2/25/2016	ETS	Lancaster	PA	17601	Philadelphia	PA	19134	53		$375.00	All States	X														
+1088868	2/25/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X														
+1088957	2/25/2016	Palziv	Louisburg	NC	27549	Hampshire	IL	60140	53		$1,200.00	Devine	X														
+1088952	2/25/2016	FCS	Conyers	GA	30012	Breinigsville	PA	18031	53		$1,690.46	West Motor	X														
+1088895	2/25/2016	EMD	Kankakee	IL	60901	Malvern	PA	19355	53		$2,454.14	XPO	X														
+1089170	2/26/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X														
+1089153	2/26/2016	Fisher Diagnostics	Middletown	VA	22645	Houston	TX	77073	53 2-Stop		$1,800.00	Almar	X														
+1089264	2/26/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$900.00	Daybreak	X														
+1089326	2/29/2016	FCS	Conyers	GA	30012	Mt Prospect	IL	60056	53		$900.00	Supierior	X														
+1089479	2/29/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$600.00	FreeStyle	X														
+1089300	2/29/2016	Fisher Diagnostics	Middletown	VA	22645	Weston	FL	33331	53 2-Stop		$2,000.00	Arga Trans	X														
+1089185	2/29/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X														
+1089339	2/29/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	53		$1,900.00	KWA	X														
+1089270	2/29/2016	PTC	Rockford	IL	61109	Durham	NC	27704	53		$1,998.49	XPO	X														
+1089267	2/29/2016	PTC	Rockford	IL	61109	Tampa	FL	33607	53		$3,400.00	XPO	X														
+1089357	2/29/2016	ETS	Lancaster	PA	17601	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1089325	2/29/2016	ETS	Lancaster	PA	17601	Austin	TX	78744	53		$2,070.00	D&D Trans	X														
+1089325	2/29/2016	ETS	Lancaster	PA	17601	Philadelphia	PA	19134	53		$425.00	West Motor	X														
+1089494	2/29/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,200.00	Greenway	X														
+1089489	2/29/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	ITF	X														
+1089507	2/29/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$1,150.00	HALOG		X	Capacity												
+1089578	3/1/2016	Thermo	Kalmazoo	MI	49008	Tacoma	WA	98424	53		$3,900.00	Global EX	X	X													
+1089569	3/1/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X	X													
+1089752	3/1/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X	X													
+1089856	3/1/2016	ETS	Rockland	MA	02370	Claysburg	PA	16625	24		$715.00	Delta Express	X	X													
+1089581	3/1/2016	Thermo	Middletown	VA	22645	Buford	GA	30519	53		$800.00	Mavric	X	X													
+1089331	3/1/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$450.00	KWA	X	X													
+1089882	3/1/2016	ETS	Lancaster	PA	17601	Trenton	NJ	08638	53		$500.00	ENG Trans	X	X													
+1089867	3/1/2016	ETS	Lancaster	PA	17601	Ewing	NJ	08618	53		$800.00	Matrix	X	X													
+1090328	3/1/2016	ETS	Swedesboro	NJ	08085	Los Angeles	CA	92505	53 Team		$3,500.00	Love Freight	X	X			Built Full Trailer From ETS Shipments										
+1089477	3/1/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1089904	3/2/2016	Thermo	Middletown	VA	22645	Waukegan	IL	60085	53		$900.00	FreeStyle	X	X													
+1089906	3/2/2016	Thermo	Middletown	VA	22645	Montgomery	NY	12549	53		$775.00	JRC Trans	X	X													
+1089910	3/2/2016	Janssen	Charlotte	NC	28262	Jacksonville	FL	32218	53		$850.00	ShipEx	X	X													
+1090049	3/2/2016	GPJ	Broomfield	CO	80020	Torrance	CA	90504	53		$1,690.00	HALOG	X		X												
+1089964	3/2/2016	ETS	Lancaster	PA	17601	Trenton	NJ	08638	53		$500.00	Explore	X	X													
+1090019	3/2/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08628	53		$550.00	DSA Logistics	X	X													
+1090122	3/3/2016	ETS	Austin	TX	78744	Ewing	NJ	08628	53 Team		$3,580.00	HALOG	X		X												
+1090040	3/3/2016	Thermo	Middletown	VA	22645	Ontario	CA	91761	53 2-Stop			D&D Trans	X	X													
+1090046	3/3/2016	Thermo	Middletown	VA	22645	Montgomery	NY	12549	53		$800.00	Brite Logistics	X	X													
+1090010	3/3/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$450.00	Premium Express	X	X													
+1090106	3/3/2016	ETS	Lancaster	PA	17601	Ewing	NJ	08638	53		$575.00	West Motor	X	X													
+1089967	3/3/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1090048	3/3/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1090200	3/4/2016	Fisher	Middletown	VA	22645	Grand Prairie	TX	75052	53		$1,725.00	D&D Trans	X	X													
+1090132	3/4/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,000.00	RR Trans	X	X													
+1090127	3/4/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1090120	3/4/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	Daybreak	X	X													
+1090351	3/4/2016	Penn Color	Hatfield	PA	19440	Marion	IN	46953	53		$950.00	HALOG	X		X												
+1090335	3/4/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	24		$1,500.00	Delta Express	X	X													
+1090125	3/4/2016	Fisher	Montgomeryville	PA	18936	Rockville	MD	20850	53		$575.00	West Motor	X	X													
+1090574	3/7/2016	ETS	Austin	TX	78744	Ewing	NJ	08618	53 Team		$3,480.00	HALOG	X		X												
+1090565	3/7/2016	ETS	Rockland	MA	02370	Ewing	NJ	08638	53		$550.00	Explore	X	X													
+1090457	3/7/2016	Fisher	Middletown	VA	22645	Ontario	CA	91761	53		$2,950.00	Fast Cargo	X	X													
+1090478	3/7/2016	ETS	Chicago	IL	60651	Ewing	NJ	08628	53		$1,850.00	Brite Logistics	X	X													
+1090369	3/7/2016	Janssen	York	PA	17402	Rockford	IL	61109	53		$1,100.00	KWA	X	X													
+1090365	3/7/2016	Fisher	Holliston	MA	01746	Allentown	PA	18106	53		$645.00	West Motor	X	X													
+1090366	3/7/2016	Fisher	Holliston	MA	01746	Allentown	PA	18106	53		$645.00	West Motor	X	X													
+1090510	3/7/2016	Fisher	Swedesboro	NJ	08085	Winona	MN	55987	53		$1,150.00	FreeStyle	X	X													
+1090694	3/8/2016	ETS	Ewing	NJ	08638	Houston	TX	77032	53		$2,200.00	All States Transport	X	X													
+1090571	3/8/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,350.00	BIH Express	X	X													
+1090716	3/9/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,200.00	S&T Trans	X	X													
+1090713	3/9/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1090926	3/9/2016	Fisher	Holliston	MA	01746	Breiningsville	PA	18031	24		$600.00	Delta Express	X	X													
+1090977	3/10/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1090060	3/10/2016	GPJ	Torrance	CA	90504	Secaucus	NJ	07094	53		$4,980.00	HALOG	X		X												
+1090960	3/10/2016	PTC	Horsham	PA	19044	South Plainfield	NJ	07080	53			ETI	X	X													
+1090898	3/10/2016	Janssen	Putnam	CT	06260	Swedesboro	NJ	08085	53		$575.00	West Motor	X	X													
+1091018	3/10/2016	Janssen	Putnam	CT	06260	Swedesboro	NJ	08085	53		$600.00	Sarge	X	X													
+1091063	3/11/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$600.00	Pinnacle	X	X													
+1091069	3/11/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$600.00	Amerifreight	X	X													
+1091179	3/11/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$600.00	S&T Trans	X	X													
+1091031	3/11/2016	Thermo	Middletown	VA	22645	Dixon	CA	95620	53 2-Stop		$3,350.00	JJ Express	X	X													
+1090897	3/11/2016	Thermo	Lenexa	KS	66219	Fremont	CA	94538	53	X	$2,800.00	KT Truck	X	X													
+1091067	3/11/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	53		$1,850.00	Brite Logistics	X	X													
+1091002	3/11/2016	ETS	Trenton	NJ	08628	Houston	TX	77032	53		$2,200.00	Fast Lane	X	X													
+1091029	3/12/2016	ETS	Trenton	NJ	08638	Houston	TX	77032	53		$2,150.00	D&D Trans	X	X													
+1091034	3/12/2016	ETS	Trenton	NJ	08638	Houston	TX	77032	53		$2,150.00	D&D Trans		X													
+1091385	3/14/2016	Thermo	Middletown	VA	22645	Indianapolis	IN	46278	53		$625.00	Indystar	X	X													
+1091353	3/14/2016	GPJ	Auburn Hills	MI	48326	Antioch	TN	37013	53		$1,000.00	RR Trans	X	X													
+1091360	3/14/2016	Richard Allan Scientific	West Chicago	IL	60185	Kalamazoo	MI	49008	53		$600.00	Amerifreight	X	X													
+1091279	3/14/2016	ETS	Trenton	NJ	08628	Los Angeles	CA	90032	53		$3,350.00	Fast Lane	X	X													
+1091279	3/14/2016	ETS	Trenton	NJ	08628	Los Angeles	CA	90032	53 Team		$3,700.00	Love Freight	X	X													
+1091370	3/14/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1091238	3/14/2016	Actavis	Salt Lake City	UT	84108	Miramar	FL	33025	53	X	$8,296.00	FedEx CC	X	X													
+1091421	3/15/2016	Richard Allan Scientific	Kalmazoo	MI	49008	Ontario	CA	91761	53		$4,000.00	VL Trucking	X	X													
+1091384	3/15/2016	Thermo	Middletown	VA	22645	Depew	NY	14043	53		$450.00	Extra Logistics	X	X													
+1091468	3/15/2016	Thermo	Middletown	VA	22645	Warrendale	PA	15086	53		$600.00	Charlotte Freight	X	X													
+1091375	3/15/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,100.00	USA Freight	X	X													
+1091418	3/15/2016	Janssen	Mebane	NC	27302	Rockford	IL	61109	53		$1,000.00	West Motor	X	X													
+1091618	3/15/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	53		$1,900.00	KWA	X	X													
+1091407	3/15/2016	ETS	Ewing	NJ	08638	Houston	TX	77032	53		$2,300.00	Greenway	X	X													
+1091408	3/15/2016	ETS	Ewing	NJ	08638	Houston	TX	77032	53		$2,300.00	Greenway	X	X													
+1091484	3/15/2016	ETS	Ewing	NJ	08618	Claysburg	PA	16625	53		$950.00	Pinnacle	X	X													
+1091630	3/15/2016	ETS	Ewing	NJ	08618	Claysburg	PA	16625	53		$850.00	Fastlane	X	X													
+1091875	3/16/2016	ETS	Rockland	MA	02370	Trenton	NJ	08618	24		$500.00	Delta Express	X	X													
+1091800	3/16/2016	Thermo	Middletown	VA	22645	Romulus	MI	48174	53 2-Stop		$1,100.00	MVK Trans	X	X													
+1090952	3/16/2016	Thermo	Lenexa	KS	66219	Richardson	TX	78081	53		$980.00	LG Truck	X	X													
+1091898	3/16/2016	Connection World Wide	Swedesboro	NJ	08085	Buffalo	NY	14213	24		$800.00	Delta Express	X	X													
+1091642	3/16/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1091833	3/16/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$1,000.00	FreeStyle	X	X													
+1091866	3/16/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$750.00	Delta Express	X	X													
+1091799	3/17/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1091792	3/17/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$550.00	West Motor	X	X													
+1091844	3/17/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$600.00	Pinnacle	X	X													
+1091891	3/17/2016	ETS	Newburyport	MA	01950	Ewing	NJ	08618	53		$550.00	West Motor	X	X													
+1091849	3/17/2016	Janssen	Mansfield	MA	02048	Shepherdsville	KY	40165	53		$1,200.00	Carnes	X	X													
+1092018	3/17/2016	ETS	Maquoketa	IA	52060	Ewing	NJ	08618	53		$2,200.00	S&T Trans	X	X													
+1092024	3/17/2016	Janssen	Mebane	NC	27302	Rockford	IL	61109	53		$1,100.00	S&T Trans	X	X													
+1091788	3/17/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1091886	3/17/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,200.00	Love Freight	X	X													
+1092325	3/18/2016	ETS	Austin	TX	78744	Corpus Christi	TX	78409	53		$450.00	Fastlane	X	X													
+1092213	3/18/2016	ETS	Rockland	MA	02370	Addison	TX	75001	53		$2,500.00	West Motor	X	X													
+1092090	3/18/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X	X													
+1092045	3/18/2016	Thermo	Middletown	VA	22645	Champlin	MN	55316	53		$1,300.00	Maybach	X	X													
+1092316	3/18/2016	ETS	Maquoketa	IA	52060	Concord	CA	94518	53		$2,200.00	Trucking Experts	X	X													
+1092096	3/18/2016	ETS	Chicago	IL	60651	Ewing 	NJ	08618	24		$1,375.00	Delta Express	X	X													
+1092379	3/18/2016	ETS	Ewing	NJ	08618	Covington	GA	30014	POV		$1,850.00	Instant Courier	X	X													
+1092337	3/18/2016	Penn Color	Hatfield	PA	19440	Cleveland	OH	44135	53		$700.00	All States Transport	X	X													
+1092029	3/18/2016	ETS	Ewing	NJ	08618	Houston	TX	77032	53		$2,295.00	Pinnacle	X	X													
+1092030	3/18/2016	ETS	Ewing	NJ	08618	Houston	TX	77032	53		$2,295.00	Pinnacle	X	X													
+1092578	3/21/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$600.00	Pinnacle	X	X													
+1092538	3/21/2016	Thermo	Middletown	VA	22645	Earth City	MO	63045	53		$1,000.00	Long Run	X	X													
+1092355	3/21/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1092539	3/21/2016	EMD	Kankakee	IL	60901	Malvern	PA	19355	53		$2,400.00	XPO	X	X													
+1092430	3/21/2016	ETS	Trenton	NJ	08628	Trenton	NJ	08628	53		$650.00	West Motor	X	X													
+1092411	3/21/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1092424	3/21/2016	Janssen	Putnam	CT	06260	Shepherdsville	KY	40165	53		$1,050.00	RR Trans	X	X													
+1092672	3/21/2016	Janssen	Manchester	CT	06045	Somerset	NJ	06045	53		$395.00	Daybreak	X	X													
+1092141	3/21/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1092543	3/22/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1092586	3/22/2016	Fisher	Holliston	MA	01746	Breiningsville	PA	18031	53		$600.00	Pinnacle	X	X													
+1092593	3/22/2016	Fisher	Holliston	MA	01746	Breiningsville	PA	18031	53		$550.00	West Motor	X	X													
+1092779	3/22/2016	Janssen	Manchester	CT	06045	Somerset	NJ	08873	53		$395.00	Daybreak	X	X													
+1092588	3/22/2016	ETS	Rockland	MA	02370	Addison	TX	75001	53		$2,800.00	SNA Trans	X	X													
+1092691	3/22/2016	Palziv	Chatsworth	GA	30705	Louisburg	NC	27549	53		$795.00	Daybreak	X	X													
+1092679	3/22/2016	Rio Brands	Philadelphia	PA	19154	Westborough	MA	01581	53		$1,100.00	Pinnacle	X	X													
+1092974	3/22/2016	ETS	Lancaster	PA	17601	Addison	TX	75001	53		$2,150.00	Fastlane	X	X													
+1092707	3/22/2016	ETS	Trenton	NJ	08628	Trenton	NJ	08628	53		$650.00	West Motor	X	X													
+1092700	3/22/2016	Janssen	Montgomeryville	PA	18936	Shepherdsville	KY	40165	53		$1,000.00	BBK	X	X													
+1092946	3/22/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$950.00	DNA	X	X													
+1092950	3/23/2016	Thermo	Middletown	VA	22645	Weston 	FL	33331	53 2-Stop		$2,000.00	Arga	X	X													
+1093034	3/23/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1092890	3/23/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$500.00	Fore Trans	X	X													
+1092891	3/23/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$500.00	Fore Trans	X	X													
+1093214	3/23/2016	ETS	Chicago	IL	60651	Ewing	NJ	08628	53		$1,900.00	KWA	X	X													
+1092940	3/23/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1093050	3/23/2016	Janssen	Putnam	CT	06260	Swedesboro	NJ	08085	53		$600.00	FreeStyle	X	X													
+1092953	3/23/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1093288	3/24/2016	Thermo	Middletown	VA	22645	Charlotte	NC	28273	53 2-Stop		$850.00	Fastlane	X	X													
+1092893	3/24/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$500.00	Fore Trans	X	X													
+1093549	3/24/2016	Penn Color	Hatfield	PA	19440	Wilmington	OH	45117	53		$700.00	Amerifreight	X	X													
+1093526	3/24/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$650.00	Caddo Mills	X	X													
+1093197	3/24/2016	Janssen	Putnam	CT	06260	Swedesboro	NJ	08085	53		$600.00	Pinnacle	X	X													
+1093519	3/25/2016	Thermo	Middletown	VA	22645	Overland Park	KS	66211	53		$1,300.00	GreenLand	X	X													
+1093550	3/25/2016	Thermo	Middletown	VA	22645	Tampa	FL	33612	53		$1,450.00	Sunteck	X	X													
+1092691	3/25/2016	Palziv	Chatsworth	GA	30705	Louisburg	NC	27546	53		$2,000.00	Love Freight	X	X													
+1093796	3/28/2016	Fisher	Holliston	MA	01746	Breiningsville	PA	18031	53		$605.00	West Motor	X	X													
+1093919	3/28/2016	ETS	Austin	TX	78744	Dallas	TX	75215	24		$415.00	Delta Express	X	X													
+1092142	3/28/2016	International Vault	Siler City	NC	27344	LaVergne	TN	37086	Flatbed		$1,200.00	Nolan	X		X	Capacity											
+1093420	3/28/2016	Thermo	Lenexa	KS	66219	Manchester	CT	06042	53		$2,600.00	BIH Express	X	X													
+1093908	3/28/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	24		$1,375.00	Delta Express	X	X													
+1093787	3/28/2016	Janssen	York	PA	17402	Rockford	IL	61109	53		$850.00	Superior	X	X													
+1093900	3/28/2016	Janssen	Pennsauken	NJ	08109	North Lake	IL	60164	53		$950.00	Sarge	X	X													
+1093870	3/29/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1093931	3/29/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$600.00	Pinnacle	X	X													
+1093928	3/29/2016	Rio Brands	Westborough	MA	01581	Philadelphia	PA	19154	53		$650.00	Pinnacle	X	X													
+1094075	3/29/2016	Thermo	Middletown	VA	22645	Waukegan	IL	60085	53		$900.00	Lightning	X	X													
+1094053	3/29/2016	Thermo	Middletown	VA	22645	Montgomery	NY	12549	53		$800.00	TMG Trans	X	X													
+1094038	3/29/2016	Janssen	Pennsauken	NJ	08109	North Lake	IL	60164	53		$950.00	Sarge	X	X													
+1093867	3/29/2016	ETS	Claysburg	PA	16625	Trenton	NJ	08618	53		$800.00	Neon	X	X													
+1094087	3/29/2016	Palziv	Louisburg	NC	27549	Hampshire	IL	60140	53		$1,375.00	RR Trans	X	X													
+1093874	3/29/2016	Janssen	Huntley	IL	60142	Rockford	IL	61109	53		$500.00	Fore Trans	X	X													
+1094109	3/30/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1094322	3/30/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53 Team		$1,940.46	West Motor	X	X													
+1094449	3/30/2016	Fisher	Conyers	GA	30012	Mt Prospect	IL	60056	24		$850.00	Delta Express	X	X													
+1094078	3/30/2016	Fisher	Holliston	MA	01746	Breiningsville	PA	18031	53		$605.00	West Motor	X	X													
+1094079	3/30/2016	Fisher	Holliston	MA	01746	Breiningsville	PA	18031	53		$605.00	West Motor	X	X													
+1094135	3/30/2016	Fisher	Middletown	VA	30519	Buford	GA	30519	53			Comstar	X	X													
+1094448	3/30/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$850.00	FreeStyle	X	X													
+1094554	3/31/2016	ETS	Rockland	MA	02370	Philadelphia	PA	19134	53		$600.00	Pinnacle	X	X													
+1094486	3/31/2016	Thermo	Middletown	VA	22645	Ontario	CA	91761	53		$2,900.00	Greenway	X	X													
+1094265	3/31/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1094182	3/31/2016	WL Gore	Phoenix	AZ	85085	Sunnyvale	CA	94089	53		$1,780.00	HALOG	X		X												
+1094517	3/31/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1094482	3/31/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1094085	3/31/2016	Fisher	Conyers	GA	30012	Breiningsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1094670	4/1/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53		$2,900.00	D&D Trans	X	X													
+1094670	4/1/2016	ETS	Rockland	MA	02370	Addison	TX	75001	53		$2,900.00	D&D Trans	X	X													
+1094565	4/1/2016	ETS	Rockland	MA	02370	Philadelphia	PA	19134	53		$650.00	Pinnacle	X	X													
+1094550	4/1/2016	Thermo	Middletown	VA	22645	Grand Prarie	TX	75052	53		$1,700.00	Quality	X	X													
+1094650	4/1/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	24		$1,375.00	Delta Express	X	X													
+1094659	4/1/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,200.00	Fastlane	X	X													
+1094562	4/1/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1094477	4/1/2016	House	Putnam	CT	06260	Swedesboro	NJ	08085	53		$600.00	Pinnacle	X	X													
+1094480	4/1/2016	House	Putnam	CT	06260	Swedesboro	NJ	08085	53		$600.00	Pinnacle	X	X													
+1094441	4/1/2016	Sunovion	Louisville	KY	40228	Swedesboro	NJ	08085	53 Team		$1,600.00	Tibbi Express	X	X													
+1094556	4/1/2016	Fisher	Conyers	GA	30012	Breinigsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1094557	4/1/2016	Fisher	Conyers	GA	30012	Breinigsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1094809	4/2/2016	ETS	Rockland	MA	02370	Philadelphia	PA	19134	53		$750.00	West Motor	X	X													
+1094815	4/2/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53		$2,200.00	Greenway Trans	X	X													
+1095007	4/4/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53 Team		$3,300.00	Love Freight	X	X													
+1095034	4/4/2016	ETS	Rockland	MA	02370	Philadelphia	PA	19134	53		$605.00	West Motor	X	X													
+1095036	4/4/2016	ETS	Rockland	MA	02370	Ewing	NJ	08618	53		$550.00	West Motor	X	X													
+1095013	4/4/2016	ETS	Chicago	IL	60651	Ewing	NJ	08618	53		$1,800.00	Brite Logistics	X	X													
+1095006	4/4/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53 Team		$3,000.00	Love Freight	X	X													
+1095351	4/4/2016	Janssen	Swedesboro	NJ	08085	Fairfield	OH	45014	53		$700.00	Greenway Trans	X	X													
+1094860	4/4/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53		$2,200.00	Fastlane	X	X													
+1095010	4/4/2016	ETS	Claysburg	PA	16625	Austin	TX	78744	53 Team		$3,000.00	Love Freight	X	X													
+1094989	4/4/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1094822	4/4/2016	Fisher	Conyers	GA	30012	Breinigsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1095039	4/4/2016	Fisher	Conyers	GA	30012	Breinigsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1095417	4/5/2016	Fisher	Conyers	GA	30012	Breinigsville	PA	18031	53		$1,690.46	West Motor	X	X													
+1095058	4/5/2016	Fisher	Conyers	GA	30012	Mt Prospect	IL	60056	24		$850.00	Delta Express	X	X													
+1095360	4/5/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53 Team		$3,300.00	Love Freight	X	X													
+1095097	4/5/2016	ETS	Rockland	MA	02370	Philadelphia	PA	19134	53		$600.00	Pinnacle	X	X													
+1095358	4/5/2016	ETS	Hurlock	MD	21643	Austin	TX	78744	53		$2,300.00	Greenway Trans	X	X													
+1095060	4/5/2016	Thermo	Solon	OH	44139	Middletown	VA	22645	53		$900.00	Drue Christ	X	X													
+1095377	4/5/2016	ETS	Addison	TX	75001	Austin	TX	78744	53		$500.00	Fastlane	X	X													
+1095068	4/5/2016	Proliant	Boone	IA	50036	Malvern	PA	19355	53	X	$3,450.00	XPO	X	X													
+1094662	4/5/2016	Janssen	Greenville	SC	29605	Rahway	NJ	07065	53		$1,600.00	BBK	X	X													
+1095354	4/5/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53 Team		$3,000.00	Love Freight	X	X													
+1095408	4/5/2016	Iowa State Univ	Swedesboro	NJ	19803	Ames	IA	50010	53		$4,990.00	CS-1	X	X													
+1095387	4/5/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1095364	4/6/2016	ETS	Rockland	MA	02370	Austin	TX	78744	53 Team		$3,300.00	Love Freight	X	X													
+1095521	4/6/2016	ETS	Rockland	MA	02370	Philadelphia	PA	19134	53		$605.00	West Motor	X	X													
+1095539	4/6/2016	ETS	Philadelphia	PA	19134	Austin	TX	78744	53 Team		$3,000.00	Orozco	X	X													
+1095235	4/6/2016	ETS	Claysburg	PA	16625	Ewing	NJ	08618	53		$800.00	Neon	X	X													
+1095380	4/6/2016	Fisher	Holliston	MA	01746	Breinigsville	PA	18031	53		$605.00	West Motor	X	X													
+1095381	4/6/2016	Fisher	Holliston	MA	01746	Breinigsville	PA	18031	53		$605.00	West Motor	X	X													
